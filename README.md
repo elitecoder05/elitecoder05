@@ -42,7 +42,7 @@
   <a href="https://www.linkedin.com/in/sidharth-varma-gurijala/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230177B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="https://bold.pro/my/sidharth-varma-250622124925" target="_blank"><img src="https://img.shields.io/badge/My_Portfolio-4CA143?style=flat-square&logo=icloud&logoColor=white&labelColor=4CA143" /></a>
   <a href="mailto:varma.gurijala@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href=""><img src="https://img.shields.io/badge/Download%20my%20CV-EC1C24.svg?style=flat-square&logo=Adobe%20Acrobat%20Reader&logoColor=white" /></a>
+  <a href="https://drive.google.com/file/d/1Kapysh9fyEt8fmXtto9IpZ3Hvigvc2JM/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Download%20my%20CV-EC1C24.svg?style=flat-square&logo=Adobe%20Acrobat%20Reader&logoColor=white" /></a>
 </p>
 
 <!--Skills-->
